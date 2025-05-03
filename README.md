@@ -1,4 +1,4 @@
 # TicTacToe
-This repository is for desiging and development of the Game - Tic Tac Toe
+This repository is for the managing the Low Level Design for different case studies
 <br>
 The language used for the development is in Java
